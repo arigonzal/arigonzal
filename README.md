@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Arianna Gonzalez :)
 
-<!--
-**arigonzal/arigonzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a recent Computer Science graduate interested in software development, web applications, and educational technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages:**
+Python · Java · TypeScript · JavaScript · SQL
+
+**Frameworks & Libraries:**
+React · Phaser · Node.js · Flask · Socket.IO · PyTorch · Tkinter
+
+**Tools & Technologies:**
+Git · Jupyter Notebook · AWS
+
+## Featured Projects
+
+* Granny's Last Word - A word-based battle game
+* Mari's Cafe - A cafe management game
+* Multi-Agent Rule-Based Task Planning System
+* Satellite Image Classification 
+* Library Management System
+
+## Check Out My Game Demos!
+
+[![Granny's Last Word Demo](https://youtu.be/8H4yDcQvbDo)](https://youtu.be/8H4yDcQvbDo)
+
+[![Mari's Cafe Demo](https://youtu.be/iUaab8IGIP0)](https://youtu.be/iUaab8IGIP0)
+
+## Connect With Me
+
+LinkedIn: [https://www.linkedin.com/in/arianna-cierra-gonzalez/](https://www.linkedin.com/in/arianna-cierra-gonzalez/)
